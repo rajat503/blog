@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Rajat Agarwal | Blog</title>
+    <link>http://rajat503.github.io/blog/post/</link>
+    <description>Recent content in Posts on Rajat Agarwal | Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Jun 2017 14:17:19 +0530</lastBuildDate>
+    
+	<atom:link href="http://rajat503.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://rajat503.github.io/blog/post/hello/</link>
+      <pubDate>Sat, 17 Jun 2017 14:17:19 +0530</pubDate>
+      
+      <guid>http://rajat503.github.io/blog/post/hello/</guid>
+      <description>This is Hugo 101</description>
+    </item>
+    
+  </channel>
+</rss>
