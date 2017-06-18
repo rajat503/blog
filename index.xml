@@ -6,18 +6,18 @@
     <description>Recent content on Rajat Agarwal | Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Jun 2017 14:17:19 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jun 2017 00:32:40 +0530</lastBuildDate>
     
 	<atom:link href="https://rajat503.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello World</title>
-      <link>https://rajat503.github.io/blog/post/hello/</link>
-      <pubDate>Sat, 17 Jun 2017 14:17:19 +0530</pubDate>
+      <title>Putting AI in Perspective</title>
+      <link>https://rajat503.github.io/blog/post/ai-in-perspective/</link>
+      <pubDate>Sun, 18 Jun 2017 00:32:40 +0530</pubDate>
       
-      <guid>https://rajat503.github.io/blog/post/hello/</guid>
-      <description>&lt;p&gt;Finally, started a blog with Hugo. Will try to post soon! :)
+      <guid>https://rajat503.github.io/blog/post/ai-in-perspective/</guid>
+      <description>&lt;p&gt;An attempt to collect thoughts on AI and where it might be headed.
 &lt;/p&gt;</description>
     </item>
     
