@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Rajat Agarwal | Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Jun 2017 00:32:40 +0530</lastBuildDate>
+    <lastBuildDate>Sat, 21 Apr 2018 22:50:33 +0530</lastBuildDate>
     
 	<atom:link href="https://rajat503.github.io/blog/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The State of Virtual Assistants: Where&#39;s the AI?</title>
+      <link>https://rajat503.github.io/blog/post/virtual-assistants/</link>
+      <pubDate>Sat, 21 Apr 2018 22:50:33 +0530</pubDate>
+      
+      <guid>https://rajat503.github.io/blog/post/virtual-assistants/</guid>
+      <description>&lt;p&gt;A commentary on virtual assistants in 2018 and the future.
+&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Putting AI in Perspective</title>
